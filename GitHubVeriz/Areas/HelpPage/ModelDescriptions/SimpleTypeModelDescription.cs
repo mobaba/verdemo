@@ -1,0 +1,6 @@
+namespace GitHubVeriz.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}
